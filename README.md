@@ -12,7 +12,7 @@ Hi, I'm **Laiba Firdouse**, a frontend developer passionate about building clean
 
 ## 🛠 Tech Stack
 
-HTML • CSS • JavaScript • React • Next.js • Node.js • Express.js • PostgreSQL • Tailwind CSS • Bootstrap • Git
+HTML • CSS • JavaScript • React • TypeScript • Node.js • Express.js • PostgreSQL • Tailwind CSS • Bootstrap • Git
 
 ## ✨ Features
 
