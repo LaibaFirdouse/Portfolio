@@ -3,7 +3,7 @@ import "../App.css";
 
 function Hero() {
   useEffect(() => {
-    const words = ["Frontend Developer", "Designer", "Creator"];
+    const words = ["Fullstack Developer", "Designer", "React Developer"];
     let wordIndex = 0;
     let letterIndex = 0;
     let isDeleting = false;
@@ -74,7 +74,7 @@ function Hero() {
 
         <p className="hero-desc">
           Hi, I’m <span className="highlight">Laiba Firdouse</span> — a passionate
-          frontend developer who loves turning ideas into visually engaging
+          frontend focused fullstack developer who loves turning ideas into visually engaging
           digital experiences.
         </p>
       </div>

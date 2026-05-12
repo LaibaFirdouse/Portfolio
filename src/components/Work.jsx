@@ -20,6 +20,11 @@ function Work() {
 
   const projects = [
     {
+      title: "Study Planner",
+      desc: "An AI-powered full-stack learning roadmap application built with Next.js 16, designed to generate personalized study plans, structured learning paths, intelligent resources, and real-time progress tracking.",
+      link: "https://study-planner-bice.vercel.app/",
+    },
+    {
       title: "Flowserve",
       desc: "Full-stack service marketplace with authentication, service browsing, and order management using React and Node.js.",
       link: "https://flowserve-six.vercel.app/",
@@ -28,11 +33,6 @@ function Work() {
       title: "Network Interceptor",
       desc: "Custom network request interceptor to monitor, modify, and handle API requests globally for better debugging and error handling.",
       link: "https://github.com/LaibaFirdouse/NetworkInterceptor",
-    },
-    {
-      title: "Portfolio Website",
-      desc: "Modern developer portfolio with animated UI, smooth scrolling navigation, and responsive design.",
-      link: "#",
     },
   ];
 

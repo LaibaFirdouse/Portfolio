@@ -9,24 +9,21 @@ function ExperienceEducation() {
       </div>
 
       <div className="experience-grid aligned-left">
-        <div className="exp-card">
-          <h3>Fullstack Developer</h3>
-          <p className="sub">Crio.do • 2024</p>
-          <p>
-            Delivered multiple industry-style sprints by building responsive frontend applications with React,
-            JavaScript, HTML, CSS, integrating REST APIs, and collaborating via Git under Agile workflows.
-          </p>
-        </div>
 
         <div className="exp-card">
-          <h3>Cloud Support Engineer</h3>
-          <p className="sub">Capgemini • 2022</p>
+          <h3>Software Engineer - Cloud Infrastructure and Support</h3>
+          <p className="sub">Capgemini • 2022 - 2025</p>
           <p>
-            Provided technical support for cloud-based systems, diagnosing and resolving user and infrastructure
-            issues within SLAs.
-            Automated routine operational tasks using scripts, improving efficiency and reducing manual work.
-            Collaborated with cross-functional teams in Agile environments to deliver secure, reliable, and
-            scalable solutions.
+            Resolved production incidents across Azure cloud environments through debugging and infrastructure troubleshooting.
+            Managed Azure monitoring, access controls, and operational workflows to improve system reliability and efficiency.
+          </p>
+        </div>
+        <div className="exp-card">
+          <h3>Fullstack Development Apprenticeship</h3>
+          <p className="sub">Crio.do • 2025 - 2026</p>
+          <p>
+            Delivered multiple industry-style sprints by building responsive applications with React,
+            JavaScript,Typescript,Node.js,Express.js,integrating REST APIs, and collaborating via Git under Agile workflows.
           </p>
         </div>
 
@@ -35,7 +32,7 @@ function ExperienceEducation() {
           <p className="sub">PA College Of Engineering Manglore • 2018 – 2022</p>
           <p>
             Specialized in software development, UI design, and web technologies
-            
+
           </p>
         </div>
       </div>
