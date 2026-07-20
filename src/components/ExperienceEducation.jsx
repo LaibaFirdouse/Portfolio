@@ -11,7 +11,7 @@ function ExperienceEducation() {
       <div className="experience-grid aligned-left">
 
         <div className="exp-card">
-          <h3>Software Engineer - Cloud Infrastructure and Support</h3>
+          <h3>Analyst A4 - Cloud Infrastructure</h3>
           <p className="sub">Capgemini • 2022 - 2025</p>
           <p>
             Resolved production incidents across Azure cloud environments through debugging and infrastructure troubleshooting.
@@ -31,7 +31,7 @@ function ExperienceEducation() {
           <h3>Bachelor of Engineering in Computer Science</h3>
           <p className="sub">PA College Of Engineering Manglore • 2018 – 2022</p>
           <p>
-            Specialized in software development, UI design, and web technologies
+            Specialized in Fullstack development, UI design, and web technologies.
 
           </p>
         </div>

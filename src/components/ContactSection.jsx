@@ -50,9 +50,9 @@ function ContactSection() {
         >
           <FaThumbtack className="pin-icon" />
           <p>
-            Hello! I’m a passionate frontend developer who loves creating
-            engaging and efficient interfaces. Whether you’re interested in
-            collaborating on a project, or just want to say hi — feel free to
+            Hello! I’m a passionate fullstack developer who loves creating
+            applications end to end focused on providing meaningful user experiences.
+            Whether you’re interested in collaborating on a project, or just want to say hi — feel free to
             reach out using the form. I’d love to connect!
           </p>
         </motion.div>

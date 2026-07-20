@@ -20,6 +20,16 @@ function Work() {
 
   const projects = [
     {
+      title: "Repona",
+      desc: "AI-powered repository intelligence system that analyzes GitHub repos, builds dependency knowledge graphs, and answers repository based questions using RAG and LLM.",
+      link: "https://github.com/LaibaFirdouse/Repona",
+    },
+    {
+      title: "Network Interceptor",
+      desc: "Custom network request interceptor to monitor, modify, and handle API requests globally for better debugging and error handling.",
+      link: "https://github.com/LaibaFirdouse/NetworkInterceptor",
+    },
+    {
       title: "Study Planner",
       desc: "An AI-powered full-stack learning roadmap application built with Next.js 16, designed to generate personalized study plans, structured learning paths, intelligent resources, and real-time progress tracking.",
       link: "https://study-planner-bice.vercel.app/",
@@ -28,12 +38,8 @@ function Work() {
       title: "Flowserve",
       desc: "Full-stack service marketplace with authentication, service browsing, and order management using React and Node.js.",
       link: "https://flowserve-six.vercel.app/",
-    },
-    {
-      title: "Network Interceptor",
-      desc: "Custom network request interceptor to monitor, modify, and handle API requests globally for better debugging and error handling.",
-      link: "https://github.com/LaibaFirdouse/NetworkInterceptor",
-    },
+    }
+    
   ];
 
   return (
